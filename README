@@ -1,0 +1,3 @@
+A Firefox extension for application-network co-ordination.
+
+Currently it detects NetFlix streaming traffic and reports the streaming server (hostname + IP address).
